@@ -1,1 +1,2 @@
 cprintf("sss");
+cprint("fff");
